@@ -37,6 +37,6 @@ for (let i = 0; i<10; i++) {
     result += arraynumber[i];
 }
 
-console.log ("la somma dell'arrei è: " + result)
+console.log ("la somma dei tuoi numeri è: " + result)
 
 

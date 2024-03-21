@@ -12,6 +12,10 @@ if (num1 > num2) {
     console.log ('questo è il numero maggiore ' + num1)
     
 } 
+else if (num1 === num2) {
+    console.log ('i due numeri sono uguali')
+    
+}
 else {
     console.log ('questpo è il numero maggiore ' + num2)
 }

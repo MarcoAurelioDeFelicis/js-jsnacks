@@ -23,9 +23,9 @@ for (let i = 0; i < arraynames.length; i++) {
 //se l'utente è true 
 if (trovato) {
     //allora può entrare
-    console.log ('puoi partecipare al party')
+    console.log ('ciao ' + username + ' puoi partecipare al party')
     //altrimenti
 } else {
     //non può entrare
-    console.log ('non puoi partecipare al party')
+    console.log ('ciao ' + username + ' non puoi partecipare al party')
 }
